@@ -11,7 +11,7 @@ An engineering graduate student at Concordia University, Montreal.
 
 ### Contact me:
 
-<a href="https://www.linkedin.com/in/dhruvkumarthakkar/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="https://twitter.com/dhruvt_official"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
-<a href="https://www.instagram.com/dhruvthakkar_official/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/dhruvkumarthakkar/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a> &nbsp;&nbsp;
+<a href="https://twitter.com/dhruvt_official"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/dhruvthakkar_official/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40"/></a> &nbsp;&nbsp;
 
