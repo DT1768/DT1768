@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Dhruv 
 
-## - an Engineering graduate student at Concordia University, Montreal.
+ - an Engineering graduate student at Concordia University, Montreal.
 
 ### An Electrical Engineer turned into a Software Developer
 
