@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Dhruv - an Engineering graduate student at Concordia University, Montreal.
 
-### Electrical Engineer turned into Software Developer
+### An Electrical Engineer turned into a Software Developer
 
 - 🔭 I’m currently working on: __Individual Projects focused on full-stack development__ 
 - 🌱 I’m currently learning: Cloud Technologies, Data Structures and Algorithms
