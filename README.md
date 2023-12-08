@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Dhruv 
+# Hello there 👋, I'm Dhruv, 
 
 An engineering graduate student at Concordia University, Montreal.
 
