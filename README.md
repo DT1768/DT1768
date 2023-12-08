@@ -14,3 +14,17 @@ An engineering graduate student at Concordia University, Montreal.
 <a href="https://www.linkedin.com/in/dhruvkumarthakkar/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a> &nbsp;&nbsp;
 <a href="https://twitter.com/dhruvt_official"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/dhruvthakkar_official/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40"/></a> &nbsp;&nbsp;
+
+
+### My Github Stats:
+
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=DT1768&count_private=true&show_icons=true&theme=tokyonight"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DT1768&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+        </td>
+    </tr>
+</table>
