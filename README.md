@@ -5,9 +5,9 @@ An engineering graduate student at Concordia University, Montreal.
 ### An Electrical Engineer turned into a Software Developer
 
 - 🔭 I’m currently working on: __Individual Projects focused on full-stack development__ 
-- 🌱 I’m currently learning: Cloud Technologies, Data Structures and Algorithms
-- 👯 I’m looking to collaborate on: Open Source projects and API development
-- 💬 Ask me about: JavaScript, React, Node, MongoDB, Docker, CI/CD, Robotics ...
+- 🌱 I’m currently learning: __Cloud Technologies, Data Structures and Algorithms__
+- 👯 I’m looking to collaborate on: __Open Source projects and API development__
+- 💬 Ask me about: __JavaScript, React, Node, MongoDB, Docker, CI/CD, Robotics ...__
 
 ### Contact me:
 
