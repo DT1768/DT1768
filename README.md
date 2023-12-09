@@ -21,6 +21,14 @@ An engineering graduate student at Concordia University, Montreal.
 <table>
     <tr>
         <td>
+            <img src="https://github-profile-trophy.vercel.app/?username=DT1768&row=3&column=4&no-bg=true"/>
+        </td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=DT1768&theme=dark"/>
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <img src="https://github-readme-stats.vercel.app/api?username=DT1768&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
         <td>
